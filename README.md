@@ -1,4 +1,9 @@
 ### Hi there 👋
+##My name is Illia, primarily work with Node.js and Mongo on the server side and React on the client + (a little bit of AWS).
+
+🌱 Node.js, React (React-native)
+⚡ Full-stack developer
+💬 illia.pospielov@gmail.com
 
 <!--
 **WerFred/WerFred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
