@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Illia, I primarily work with Node.js and Mongo on the server side and React on the client. 🤔 + (a little bit of AWS).
+#### My name is Illia, I primarily work with Node.js on the server side and React on the client. 🤔 + (a little bit of AWS).
 
 ⚡ Full-stack developer </br>
 🌱 Node.js, React (React-native) </br>
