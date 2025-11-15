@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Illia 👋
 
-I'm Illia, a Full-Stack Developer with experience building scalable web and mobile applications.  
-I specialize in **React, React Native, Node.js**, and have additional experience with **AWS** and modern front-end frameworks.  
+Full-stack JS dev working with React, React Native, Node.js, and TypeScript.  
+I try to ship clean, understandable code and make things actually work in production (most of the time).
 
-⚡ Full-stack developer </br>
-🌱 JavaScript | TypeScript | React | Node.js | AWS </br>
-💬 Reach me at: [Telegram](https://t.me/werfred)
+⚡ Full-stack: React · React Native · Node.js · TypeScript  
+🛠 Also use: Next.js · PostgreSQL · MongoDB · AWS <br>
+💬 Reach me at: [illia.pospielov@gmail.com](mailto:illia.pospielov@gmail.com)
